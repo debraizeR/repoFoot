@@ -1,0 +1,8 @@
+.containerCSS{background-color :#e0e0e0; font-family: Heebo, sans-serif;}
+.bgFirstRow{background-color: #091c3e; color: white}
+.bgSecondThirdRow{background-color: #e6e6e6;}
+.bgThirdLastRow{background-color: #b3b3b3;}
+.bgTwoLastRow{background-color: #808080;}
+.table-hover tbody tr:hover td{background-color : #f7dfad; color : black;}
+img{width: 40px; height: 40px;}
+tr{background-color: #e0e0e0;}
